@@ -1,2 +1,1 @@
-# D2PatternTracker
-A python app to keep track of weapon crafting patterns in a better way
+# A Python Project to keep track of Weapon Crafting Patterns in Destiny-2
